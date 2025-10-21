@@ -97,6 +97,7 @@ function resetBoard() {
 
 // Reset button reloads the page (restarts the game)
 resetBtn.addEventListener("click", () => {
+
   location.reload();
 });
 
